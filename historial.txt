@@ -1,0 +1,1000 @@
+  161  cat -n canny.py
+  162  sudo nano canny.txt
+  163  sudo mv cartas.jpg/canny
+  164  mv ~/descargas/cartas.jpg ~/documentos
+  165  cd canny
+  166  cd ~/Descargas
+  167  sudo mv cartas.jpg /home/canny
+  168  clear
+  169  cd karli
+  170  cd canny
+  171  pwd
+  172  sudo mv cartas.jpg/canny
+  173  cd canny
+  174  cd
+  175  ls -l
+  176  Sudo mv  /home/nombre/cartas.jpg /home/canny/
+  177  sudo mv /home/karli/cartas.jpg /home/canny/
+  178  sudo mkdir canny
+  179  sudo rmdir canny
+  180  clear
+  181  cd ..
+  182  sudo mkdir canny
+  183  sudo mv /home/karli/cartas.jpg /home/canny/
+  184  cd
+  185  ls -l
+  186  ls
+  187  cd canny
+  188  ls -l
+  189  ls -la
+  190  sudo cartas/home/karli/canny/
+  191  sudo mv cartas.jpg/home/karli/canny/
+  192  sudo mv cartas.jpg/home/karla/canny/
+  193  sudo cartas.jpg ~/canny/
+  194  mv cartas.jpg /home/karla/canny/
+  195  sudo mv cartas.jpg /home/karla/canny/
+  196  pwd
+  197  ls
+  198  ls -l
+  199  find ~ -name "cartas.jpg"
+  200  find ~ -name "*.jpg"
+  201  find /home/karli -type f -name "cartas.jpg"
+  202  sudo find / -type f -name "cartas.jpg"
+  203  cd karli
+  204  cd /home/karli/agosto25
+  205  clear
+  206  cd ..
+  207  cd /home/karli/agosto25
+  208  ls -l
+  209  cd canny
+  210  ls -l
+  211  sudo nano canny.py
+  212  sudo python3 canny.py
+  213  sudo git init
+  214  ls -la
+  215  cd ..
+  216  cd canny
+  217  sudo git init
+  218  ls -la
+  219  sudo git add canny.py
+  220  sudo git commit -m "subir codigo e imagen"
+  221  sudo git branch -M main
+  222  sudo git remote add + https://github.com/Kiara060423/SistemasOperativos25B.git
+  223  sudo git push -u origin main
+  224  sudo git remote add https://github.com/Kiara060423/SistemasOperativos25B.git
+  225  sudo git push -u origin main
+  226  sudo git remote add origin https://github.com/Kiara060423/SistemasOperativos25B.git
+  227  sudo git push -u origin main
+  228  sudo git add "cartas.jpg"
+  229  sudo git branch -M main
+  230  sudo push -u origin main
+  231  sudo git push -u origin main
+  232  sudo nano canny.py
+  233  sudo git commit -m "subir imagen"
+  234  sudo git branch -M main
+  235  sudo git push -u origin main
+  236  sudo nano canny.py
+  237  sudo git commit -m "prueba2"
+  238  sudo git commit -m "subir imagen"
+  239  sudo git add .
+  240  sudo git commit -m "subir imagen"
+  241  sudo git branch -M main
+  242  sudo git push -u origin main
+  243  cd canny
+  244  sudo mkdir asistencia
+  245  cd asistencia
+  246  sudo git init
+  247  ls
+  248  sudo git add .
+  249  sudo git commit -m "Evidencia"
+  250  sudo git branch -M main
+  251  sudo git remote add https://github.com/Kiara060423/Asistencias.git
+  252  sudo push -u origin main
+  253  sudo git push -u origin main
+  254  sudo git push -u origen master
+  255  ls -la
+  256  sudo git add .
+  257  sudo git commit -m "Asistencias"
+  258  sudo git branch -M main
+  259  sudo git remote add https://github.com/Kiara060423/Asistencias.git
+  260  sudo git push -u origin main
+  261  clear
+  262  ls -la
+  263  ls
+  264  ls -l
+  265  sudo mkdir asistencia1
+  266  sudo git init
+  267  mkdir asistencia1
+  268  git init
+  269  sudo git init
+  270  sudo git add .
+  271  sudo chow -R
+  272  sudo chown -R
+  273  clear
+  274  cd
+  275  cd asistencia
+  276  cd mkdir asistencia
+  277  clar
+  278  clear
+  279  cd canny
+  280  cd asistencia
+  281  ls -l
+  282  sudo git init
+  283  sudo git add .
+  284  sudo git commit -m "asistencia"
+  285  sudo mkdir asistencia.txt
+  286  ls -l
+  287  cd asistencia1
+  288  echo "primer asistencia"  > asistencia.txt
+  289  sudo git add asistencia.txt
+  290  rm -m asistencia.txt
+  291  clar
+  292  clear
+  293  sudo git init 
+  294  sudo git init
+  295  sudo git status
+  296  sudo git add .
+  297  sudo git commit -m "primer asistencia"
+  298  sudo git remote add origin https://github.com/Kiara060423/Asistencias.git
+  299  sudo git branch -M main
+  300  sudo git push -u origin main
+  301  ls -la
+  302  sudo nano asistencia.txt
+  303  ls -la
+  304  sudo git add .
+  305  sudo git commit -m "asistencia2"
+  306  ls
+  307  git add asistencia.txt
+  308  clear
+  309  cd ..
+  310  sudo apt-get update
+  311  java
+  312  sudo apt-get remove java
+  313  java
+  314  sudo apt install openjdk-11-jdk
+  315  clear
+  316  top
+  317  clear
+  318  top
+  319  clear
+  320  apt-get install htop
+  321  sudo apt-get install htop
+  322  htop
+  323  cd canny
+  324  ls -l
+  325  cd asistencia
+  326  sudo nano asistencia
+  327  sudo git init
+  328  sudo git remote add https://github.com/Kiara060423/Asistencias.git
+  329  clar
+  330  clear
+  331  ls -l
+  332  sudo git commit -m "archivo1"
+  333  sudo git commit -"asistencia1"
+  334  sudo git commit -m "asistencia1"
+  335  sudo git add .
+  336  sudo git commit -m "asistencia1"
+  337  sudo git branch -M main
+  338  sudo git remote add https://github.com/Kiara060423/Asistencias.git
+  339  sudo git remote add origin https://github.com/Kiara060423/Asistencias.git
+  340  sudo git push -m origin main
+  341  sudo git push -u origin main
+  342  cd canny
+  343  cd asistencias
+  344  cd asistencia
+  345  sudo nano asistencia2
+  346  sudo git init
+  347  sudo git add .
+  348  sudo git commit -m "asistencia2"
+  349  sudo git branch -M main
+  350  sudo git add origin https://github.com/Kiara060423/Asistencias.git
+  351  sudo git remote add origin https://github.com/Kiara060423/Asistencias.git
+  352  sudo git push -u origin main
+  353  clear
+  354  cd ..
+  355  cd Agosto25
+  356  sudo mkdir Agosto25
+  357  ls -l
+  358  cd Agosto25
+  359  pwd
+  360  mkdir Dir1
+  361  sudo mkdir Dir1
+  362  ls
+  363  sudo mkdir Dir2 Dir3
+  364  ls -l
+  365  sudo mkdir /home/karli/Dir3/Dir4
+  366  sudo mkdir /home/karli/Dir2/Dir3
+  367  sudo mkdir -p /home/karli/Dir1/Dir2/Dir3
+  368  cd Dir3
+  369  ls 
+  370  sudo mkdir -p /home/karli/Dir3/Dir4
+  371  cd Dir3
+  372  cd Agosto25
+  373  clear
+  374  cd ..
+  375  sudo mkdir -p Dir3/Dir4
+  376  ls -R
+  377  cd Dir3
+  378  ls
+  379  rmdir Dir4
+  380  sudo rmdir Dir4
+  381  ls
+  382  cd ..
+  383  ls -l
+  384  cd Dir1
+  385  touch archivo1.txt
+  386  sudo touch archivo1.txt
+  387  ls -l
+  388  sudo touch archivo2.txt archivo3.txt
+  389  ls -l
+  390  clear
+  391  cd ..
+  392  clear
+  393  cd Dir1
+  394  ls
+  395  cat > leame.txt
+  396  sudo cat > leame.txt
+  397  ls -la leame.txt
+  398  sudo chmod 644 leame.txt
+  399  sudo chmod 755 leame.txt
+  400  sudo chown karli:karli leame.txt
+  401  clear
+  402  ls l
+  403  ls -la
+  404  apt list --installed
+  405  wc -l
+  406  apt list --installed | wc -l
+  407  apt list --installed packages.txt
+  408  sudo mkdir mi-paquete
+  409  cd mi-paquete
+  410  sudo mkdir mipaq
+  411  sudo touch mipaq/__init.py
+  412  import mipaq
+  413  sudo import mipaq
+  414  clear
+  415  sudo mkdir -p miapp/DEBIAN
+  416  sudo nano app
+  417  clear
+  418  cd ..
+  419  cd tareas
+  420  sudo mkdir tareas
+  421  ls -l
+  422  cd canny
+  423  sudo nano tareas
+  424  sudo git init
+  425  ls -l
+  426  sudo git add .
+  427  sudo git commit -m "Todas las tareas"
+  428  sudo git branch -M main
+  429  sudo git remote add origin https://github.com/Kiara060423/Tareas.git
+  430  sudo git push -u origin main
+  431  ls -l
+  432  cd asistencia
+  433  mkdir tareas
+  434  sudo mkdir tareas
+  435  ls -l
+  436  cd tareas
+  437  sudo mkdir mi_paquete
+  438  cd mi_paquete
+  439  sudo touch mi_paquete/__init__.py
+  440  sudo touch __init__.py
+  441  ls -l
+  442  clear
+  443  cd ..
+  444  sudo mv ~/Descargas/*.png ~/canny/asistencia/tareas
+  445  ls ~/Descargas
+  446  ls
+  447  ls ~
+  448  sudo /mnt/c/Users/Karla/Downloads/Captura1*.png  ~/canny/asistencia/tareas/
+  449  sudo mv /mnt/c/Users/Karla/Downloads/Captura1*.png  ~/canny/asistencia/tareas/
+  450  cp  /mnt/c/Users/Karla/Downloads/Captura1*.png  ~/canny/asistencia/tareas/
+  451  clear
+  452  cd mi_paquete
+  453  ls ~/
+  454  cp ~/Captura1.png
+  455  ls ~/Captura1.png
+  456  find ~ -name "Captura1.png" 2>/dev/null
+  457  find / -name "Captura*" 2>/dev/null
+  458  cd canny
+  459  cd tareas
+  460  cd asistencias
+  461  ls -l
+  462  sudo mkdir tareas
+  463  cd tareas
+  464  ls -l
+  465  sudo rm ~/canny/tareas
+  466  ls -l
+  467  sudo mkdir ~/canny/tareas
+  468  ls -l
+  469  sudo mv ~/Descargas/*png ~/canny/tareas
+  470  ls ~/canny/tareas
+  471  sudo mv ~/Descargas/*.{png,png,png}
+  472  sudo mv ~/Descargas/*.{png,png,png}  ~/canny/tarea/ 2>/dev/null
+  473  ls  ~/canny/tareas
+  474  sudo mv  ~f  ~/Descargas/*. {png,png,png}
+  475  sudo mv  ~f  ~/Descargas/*. {png,png,png}  ~/canny/tareas/ 2>/dev/null
+  476  sudo apt-get install htop -y
+  477  htop
+  478  clear
+  479  history
+  480  clear
+  481  htop
+  482  chown --help
+  483  clear
+  484  login
+  485  clear
+  486  top
+  487  clear
+  488  top
+  489  clear
+  490  cd home
+  491  pwd
+  492  cd
+  493  pwd
+  494  cd ..
+  495  cd /..
+  496  pwd
+  497  cd home/karli
+  498  pwd
+  499  cd /..
+  500  pwd
+  501  ls -l
+  502  cd etc
+  503  ls -l
+  504  clear
+  505  inittab
+  506  ls -l
+  507  clear
+  508  init 0
+  509  init 1
+  510  sudo init 1
+  511  clear
+  512  top
+  513  clear
+  514  systemd --help
+  515  system --version
+  516  clear
+  517  systemd --version
+  518  systemd --shows-status
+  519  clar
+  520  clear
+  521  systemctl
+  522  systemctl --hepl
+  523  systemctl --help
+  524  cd etc
+  525  sudo apt install openssh-server
+  526  systemctl start ssh
+  527  cd ..
+  528  pdw
+  529  pwd
+  530  sudo apt install openssh-server
+  531  ssh --version
+  532  clear
+  533  sudo systemctl start ssh
+  534  sudo systemctl status
+  535  cd ..
+  536  sudo systemctl stop ssh
+  537  sudo systemctl enable ssh
+  538  sudo systemctl status
+  539  sudo systemctl list-unit-files --type service --all
+  540  sudo systemctl status
+  541  sudo systemctl list-unit-files --type service --all
+  542  man systemctl
+  543  sudo systemctl | grep running
+  544  sudo systemctl status ssh
+  545  systemctl list-unit-files --state=failed
+  546  sudo systemctl reboot
+  547  cd ..
+  548  sudo systemctl disable ssh
+  549  sudo systemctl status
+  550  sud
+  551  sudo  systemctl poweroff
+  552  cd canny
+  553  cd tareas
+  554  sudo mv ~/Descargas/*.{png,png,png}
+  555  ls -la ~/ | grep -i descarga
+  556  ls ~/Descargas/
+  557  clear
+  558  cd ..
+  559  cd ~/canny/tareas
+  560  sudo ~/Descargas/"Captura 1.png"
+  561  sudo ~/Descargas/"Captura 1.png" .
+  562  exit
+  563  cd canny
+  564  cd tareas
+  565  mv ~/Descargas/"Captura 1.png" .
+  566  ls -la
+  567  ls ~/Descargas/
+  568  cd ..
+  569  ls -l
+  570  clar
+  571  clear
+  572  cd canny
+  573  ls -l
+  574  cd home
+  575  cd canny
+  576  cd tareas
+  577  ls -l
+  578  sudo mkdir tareas
+  579  cd tareas
+  580  find /home/karli -name "*Descargas*" -type d 2>/dev/null
+  581  find /home/karli -name "Captura1*.png" -type f 2>/dev/null
+  582  ls /home/karli/Descargas/
+  583  ls -la /home/karli/
+  584  ls -la /home/karli/ | grep -i download
+  585  ls -l
+  586  C:\Users\karli\Downloads\Captura 1.png
+  587  sudo git commit -m "subir imagen"
+  588  pwd
+  589  find /home -name "Captura*.png" 2>/dev/null
+  590  clear
+  591  sudo git init
+  592  sudo git add .
+  593  sudo git commit -m "subir imagenes"
+  594  clear
+  595  cd ..
+  596  sudo mkdir Agosto25
+  597  sudo touch archivo1.txt
+  598  clear
+  599  cd canny
+  600  sudo mkdir Agosto25
+  601  sudo touch archivo1.txt
+  602  sudo cp archivo1.txt archivo2.txt
+  603  sudo mv archivo1.txt archivo2.txt
+  604  cat archivo2.txt
+  605  sudo rmdir Agosto25_sin...
+  606  sudo rmdir Agosto25
+  607  sudo rmdir Agosto25_sin_
+  608  sudo rmdir Agosto25
+  609  ls -la
+  610  sudo cp C:/Users/karli/OneDrive/Pictures/Captura 1/*.png tareas/
+  611  clear
+  612  cd tareas
+  613  cd ..
+  614  cd asistencia
+  615  cd canny
+  616  cd asistencia
+  617  ls -l
+  618  cd tareas
+  619  cd ~/Descargas
+  620  ls /home/canny
+  621  ls /media/$USER
+  622  ls ~/canny/tareas
+  623  ls 
+  624  ls -l
+  625  ls /media/$USER
+  626  lsblk
+  627  df -h
+  628  clear
+  629  cd tareas
+  630  ls ~/tareas
+  631  clear
+  632  ls /mnt/c/Users/
+  633  ls /mnt/c/Users/karli/Pictures
+  634  sudo ls /mnt/c/Users/karli/Pictures
+  635  ls /mnt/c/Users/karli
+  636  ls /mnt/c/Users/karli/Downloads
+  637  cd tareas
+  638  cp /mnt/c/Users/karli/Downloads/*.{png,jpg,jpeg} ~/tareas/
+  639  sudo cp /mnt/c/Users/karli/Downloads/*.{png,jpg,jpeg} ~/tareas/
+  640  cd ..
+  641  cd home
+  642  ls -l
+  643  cd ..
+  644  cd tareas
+  645  sudo chown -R karli:karli ~/tareas
+  646  cd karli
+  647  ls -l
+  648  ls
+  649  sudo chown -R karli:karli ~/tareas
+  650  clear
+  651  cd home
+  652  ls
+  653  cd
+  654  cd tareas
+  655  cd ..
+  656  pwd
+  657  sudo chown -R karli:karli ~/tareas
+  658  cd tareas
+  659  cp /mnt/c/Users/karli/Downloads/*.{png,jpg} ~/tareas/
+  660  ls ~/tareas
+  661  ls -l
+  662  cd ~/tareas
+  663  rm !("Captura 1.png"|"Captura 2.png"|"Captura 3.png")
+  664  ls ~/tareas
+  665  git init
+  666  git remote add origin https://github.com/Kiara060423/Tareas.git
+  667  git add .
+  668  git commit -m "Subo mis capturas"
+  669  git add .
+  670  git commit -m "subo capturas"
+  671  git branch -M main
+  672  git remote add origin https://github.com/Kiara060423/Tareas.git
+  673  git remote -v
+  674  git add .
+  675  git commit -m "subo mis capturas"
+  676  git push -u origin master
+  677  git push -u origin main
+  678  pwd
+  679  ls -la
+  680  git clone https://github.com/Kiara060423/Tareas.git
+  681  cd Tareas
+  682  cp ~/tareas/*.{png,jpg} .
+  683  ls ~/tareas
+  684  cp ~/tareas/*.png .
+  685  cp ~/tareas/*.{png,png} .
+  686  cp ~/tareas/*.png .
+  687  ls -la
+  688  git add .
+  689  git commit -m "Agrego mis capturas"
+  690  git push
+  691  ls -la ~/tareas/Tareas
+  692  ls -la
+  693  git add "Captura 2.png"
+  694  git commit -m "Subo solo Captura 2.png"
+  695  git push
+  696  ls -la ~/tareas/Tareas
+  697  sudo apt install fastfetch
+  698  sudo apt-get update sudo apt-get install ranger caca-utils highlight atool w3m poppler-utils mediainfo
+  699  guardabosque Q
+  700  ranger
+  701  cava
+  702  ~/.config/cava/config
+  703  sudo  ~/.config/cava/config
+  704  sudo mkdir -p  ~/.config/cava
+  705  sudo cp /usr/share/doc/cava/examples/config  ~/.config/cava/config
+  706  sudo nano  ~/.config/cava/config
+  707  sudo apt install cava
+  708  cava --version
+  709  tmux ls
+  710  tmux attach -t name
+  711  tmux kill-session -t name
+  712  tmux attach
+  713  tmux new -s prueba
+  714  exit
+  715  cd canny
+  716  ls
+  717  cd tareas
+  718  sudo mv Tarea sistemas operativos.pdf MisPDFS/
+  719  sudo cp "Tarea sistemas operativos.pdf" MisPDFs/
+  720  clear
+  721  sudo mv "Tarea sistemas operativos.pdf" tareas/
+  722  sudo cp  "Tarea sistemas operativos.pdf" tareas/
+  723  ls -la
+  724  cd ~/Documentos/"Sistemas Operativos" mv "Tarea sistemas operativos.pdf" ~/canny/tareas/
+  725  sudo mv ~/Documentos/"sistemas operativos"/"Tarea sistemas operativos.pdf" tareas/
+  726  ls  ~/Documentos/
+  727  clear
+  728  sudo mv ~/Escritorio/"Tarea sistemas operativos.pdf" .
+  729  cd ..
+  730  cd canny
+  731  cd karli
+  732  cd canny
+  733  cd tareas
+  734  sudo mv /mnt/c/karli/Desktop/Tarea sistema operativo.pdf ~/documentos/
+  735  ls ~/Documentos
+  736  ls ~/canny
+  737  pwd
+  738  mv "/mnt/c/Users/karli/Desktop/Tarea sistema operativos.pdf"
+  739  mv "/mnt/c/Users/karli/Desktop/Tarea sistema operativos.pdf" .
+  740  ls "/mnt/c/Users/karli/Desktop/
+  741  cd canny
+  742  cd tareas
+  743  ls ~/Escritorio/
+  744  cd ~
+  745  pwd
+  746  ls -ls
+  747  ls -la
+  748  ls -la | grep -i escrit
+  749  nautilus ~ &
+  750  find / -name "*.pdf" type f 2>/dev/null
+  751  locate "Tarea sistemas operativos.pdf"
+  752  sudo apt install plocate
+  753  sudo find /mnt/c -iname "*.pdf" 2>/dev/null | less
+  754  cd canny
+  755  cd tareas
+  756  sudo find /mnt/c -iname "*.pdf" 2>/dev/null | less
+  757  cd canny
+  758  cd tareas
+  759  sudo find /mnt/c -iname "*.pdf" 2>/dev/null
+  760  cd canny
+  761  cd tareas
+  762  cp "/mnt/c/Users/$USER/Desktop/Tarea sistemas operativos.pdf" ~/tareas/
+  763  cp "/mnt/c/Users/$USER/Desktop/Tarea sistemas operativos" ~/tareas/
+  764  cd "/mnt/c/Users/$USER/Desktop"
+  765  ls /mnt/c/Users/
+  766  find /mnt/c -iname "*tarea*sistemas*operativos*" 2>/dev/null
+  767  cd canny
+  768  cd tareas
+  769  find /mnt/c -iname "*tarea*" 2>/dev/null | grep -i sistemas
+  770  cd canny
+  771  cd tareas
+  772  ls "/mnt/c/Users/$USER/OneDrive/Escritorio"
+  773  cp "/mnt/c/Users/karli/OneDrive/Desktop/Tarea sistemas operativos" ~/tareas/
+  774  ls "/mnt/c/Users/karli/OneDrive"
+  775  ls "/mnt/c/Users/karli/OneDrive/Desktopl"
+  776  ls "/mnt/c/Users/karli/OneDrive"
+  777  ls "/mnt/c/Users/karli/OneDrive/Documentos"
+  778  cp "/mnt/c/Users/karli/OneDrive/Documentos/Sistemas Operativos/Tarea sistemas operativos" ~/tareas/
+  779  ls "/mnt/c/Users/karli/OneDrive/Documentos/Sistemas Operativos"
+  780  cp "/mnt/c/Users/karli/OneDrive/Documentos/sistemas Operativos/ Tarea sistemas operativos.pdf" ~/tareas/
+  781  cp "/mnt/c/Users/karli/OneDrive/Documentos/sistemas Operativos/ Tarea sistemas operativos.pdfi" ~/tareas/
+  782  ls -b "/mnt/c/Users/karli/OneDrive/Documentos/sistemas Operativos"
+  783  cp "/mnt/c/Users/karli/OneDrive/Documentos/sistemas Operativos/ Tarea sistemas operativos.pdf" ~/tareas/
+  784  cd "/mnt/c/Users/karli/OneDrive/Documentos/sistemas Operativos"
+  785  ls
+  786  cp Tarea
+  787  cp 'Tarea sistemas operativos.pdf' ~/tareas/
+  788  ls ~/tareas
+  789  cd ~/tareas
+  790  git init
+  791  sudo git init
+  792  sudo git add .
+  793  sudi git commit -m "Tarea sistemas operativos"
+  794  sudo git commit -m "Tarea sistemas operativos
+  795  sudo apt install fastfetch
+  796  fastfetch --list-logos
+  797  sudo fastfetch --list-logos
+  798  sudo apt update
+  799  sudo apt install git cmake build-essential pkg-config libpci-dev libxrandr-dev libx11-dev libwayland-dev
+  800  git clone https://github.com/fastfetch-cli/fastfetch.git
+  801  cd fastfetch
+  802  cd ~
+  803  rm -rf fastfetch
+  804  git clone https://github.com/fastfetch-cli/fastfetch.git
+  805  cd fastfetch
+  806  mkdir build && cd build
+  807  cmake ..
+  808  make -j$(nproc)
+  809  sudo make install
+  810  cd ~
+  811  rm -rf fastfetch
+  812  sudo rm -rf fastfetch
+  813  git clone https://github.com/fastfetch-cli/fastfetch.git
+  814  cd fastfetch
+  815  sudo mkdir build && cd build
+  816  cmake ..
+  817  make -j$(nproc)
+  818  sudo make install
+  819  cd ..
+  820  sudo rm -rf build
+  821  sudo mkdir build
+  822  cd build
+  823  cmake ..
+  824  sudo cmake ..
+  825  sudo make -j$(nproc)
+  826  sudo make install
+  827  sudo fastfetch --list-logos
+  828  sudo fastfetch --logo arch
+  829  sudo fastfetch --logo zos
+  830  clear
+  831  cd ..
+  832  cd canny
+  833  ls -l
+  834  cd asistencia
+  835  sudo /mnt/c/Users/<tu-usuario>/Desktop
+  836  /mnt/c/Users/<tu-usuario>/Desktop
+  837  ls /mnt/c/Users/
+  838  sudo cp "/mnt/c/Users/karli/Desktop/Act 1 y 2" ~/canny/asistencia/
+  839  ls "/mnt/c/Users/karli/Desktop" | grep -i "act 1"
+  840  explorer.exe .
+  841  sudo chmod 755 ~/canny/asistencia
+  842  sudo chown -R $USER:$USER ~/canny/asistencia
+  843  ls -l
+  844  sudo git init
+  845  sudo git add .
+  846  sudo git commit -m "subir Act 1 y 2"
+  847  sudo git branch -M main
+  848  sudo git remote add origin https://github.com/Kiara060423/fastfetch.git
+  849  sudo git remote -v
+  850  sudo git push -u origin main
+  851  cd canny
+  852  cd tareas
+  853  find /mnt/c -iname "*tarea*" 2>/dev/null
+  854  cd canny
+  855  cd tareas
+  856  sudo git init
+  857  sudo git add .
+  858  sudo git commit -m "Tarea sistemas operativos"
+  859  cd ~/tareas
+  860  sudo git add "Tarea sistemas operativos.pdf"
+  861  sudo git commit -m "Agrego tarea de sistemas operativos"
+  862  sudo git remote add origin https://github.com/Kiara060423/Tareas.git
+  863  sudo git push -u origin main
+  864  sudo git pull origin main
+  865  sudo git pull origin main --no-rebase
+  866  sudo git pull origin main --allow-unrelated-histories --no-rebase
+  867  sudo git push -u origin main
+  868  systemctl list-unit-files -type service -all
+  869  systemctl list-unit-files -type service --all
+  870  systemctl list-unit-files --type service --all
+  871  history
+  872  systemctl list-unit-files --type service --all
+  873  man systemctl
+  874  sudo systemctl | grep running
+  875  sudo systemctl | grep static
+  876  sudo systemctl | grep generaro
+  877  sudo apt-get update
+  878  sudo apt install openssh -y
+  879  sudo systemctl start
+  880  sudo systemctl start ssh
+  881  sudo systemctl start  | ssh
+  882  sudo systemctl start ssh
+  883  sudo systemctl status ssh
+  884  sudo systemctl stos ssh
+  885  sudo systemctl stop ssh
+  886  sudo systemctl enable ssh
+  887  sudo systemctl status ssh
+  888  sudo systemctl | grep ssh
+  889  systemctl list-unit-files --state=failed
+  890  systemctl halt
+  891  systemctl poweroff
+  892  sudo systemctl reboor
+  893  systemctl reboot
+  894  systemctl halt
+  895  systemctl enable cgconfig.server
+  896  clear
+  897  pwd
+  898  cd / ..
+  899  cd /..
+  900  ls -l
+  901  cd etc
+  902  ls -l
+  903  cd ..
+  904  sudo apt install libcgroup
+  905  sudo systemctl libcgroup
+  906  sudo apt-get install libcgroup
+  907  etc
+  908  cd etc
+  909  ls -l
+  910  sudo systemctl status wsl.conf
+  911  sudo apt-get install net-tools/netstat --nat
+  912  clear
+  913  cd ..
+  914  sudo apt install net-toolp
+  915  sudo apt install net-tools
+  916  netstat -v
+  917  netstat -nr
+  918  netstat -ai
+  919  netstat -ant
+  920  netstat -pnltu
+  921  clear
+  922  pwd
+  923  cd home
+  924  ls -l
+  925  clear
+  926  cd /..
+  927  cd etc
+  928  clear
+  929  ls -l
+  930  cat /etc/passwd
+  931  cat /etc/shadow
+  932  sudo cat  /etc/shadow
+  933  sudo cat group
+  934  cd ..
+  935  clear
+  936  pwd
+  937  sudo cat /etc/shadow
+  938  sudo useradd axelusuario
+  939  sudo cat /etc/shadow
+  940  sudo cat /etc/group
+  941  sudo cat /etc/shadow
+  942  cd canny
+  943  ls -l
+  944  cd asistencia
+  945  sudo mkdir -p ~/asistencia/trabajos en clase
+  946  ls -l
+  947  cd clase
+  948  sudo cp /mnt/c/Users/$USER/Desktop/Trabajo en clase SO ~/asistencia/clase/
+  949  sudo cp -r "/mnt/c/Users/susER/Desktop/Trabajo en clase SO" ~/asistencia/clase/
+  950  clear
+  951  ls "/mnt/c/Users/$(whoami)/Desktop"
+  952  ls /mnt/c/Users/
+  953  ls "/mnt/c/Users/karli"
+  954  ls "/mnt/c/Users/karli/OneDrive"
+  955  ls "/mnt/c/Users/karli/OneDrive/Desktop"
+  956  sudo cp "/mnt/c/Users/karli/OneDrive/Desktop/Trabajo en clase SO.pdf" ~/asistencia/clase/
+  957  mkdir -p ~/asistencia/clase
+  958  cp "/mnt/c/Users/karli/OneDrive/Desktop/Trabajo en clase So.pdf" ~/asistencia/clase/
+  959  sudo chown -R $USER:$USER ~/asistencia
+  960  mkdir -p ~/asistencia/clase
+  961  cp "/mnt/c/Users/karli/OneDrive/Desktop/Trabajo en clase SO" ~/asistencia/clase/
+  962  clear
+  963  cd ..
+  964  ls ~
+  965  ls ~/asistencia
+  966  cp "/mnt/c/Users/karli/OneDrive/Desktop/Trabajo en clase SO.pdf" ~/asistencia/clase/
+  967  ls ~/asistencia/clase/
+  968  git init
+  969  sudo git init
+  970  sudo git add "Trabajo en clase So.pdf"
+  971  cd ~/asistencia/clase
+  972  ls
+  973  sudo git init
+  974  sudo git add "Trabajo en clase So.pdf"
+  975  git add "Trabajo en clase So.pdf"
+  976  git config --global --add safe.directory /home/karli/asistencia/clase
+  977  sudo git add "Trabajo en clase So.pdf"
+  978  git add "Trabajo en clase So.pdf"
+  979  sudo rm -f ~/asistencia/clase/.git/index.lock
+  980  sudo chown -R $USER:$USER ~/asistencia/clase
+  981  cd ~/asistencia/clase
+  982  sudo git add "Trabajo en clase SO.pdf"
+  983  sudo git commit -m "Agrego trabajo en clase SO"
+  984  sudo git remote add origin https://github.com/Kiara060423/Asistencias.git
+  985  sudo git branch -M main
+  986  sudo git push -u origin main
+  987  git pull origin main
+  988  sudo git pull origin main
+  989  git pull origin main
+  990  sudo git pull origin main
+  991  git pull origin main --no-rebase
+  992  clear
+  993  git pull origin main --allow-unrelated-histories
+  994  sudo git pull origin main --allow-unrelated-histories
+  995  git pull origin main --allow-unrelated-histories --no-rebase
+  996  git push -u origin main
+  997  git pull origin main --allow-unrelated-histories --no-rebase
+  998  clear
+  999  git pull origin main --allow-unrelated-histories --no-rebase
+ 1000  git status
+ 1001  git commit
+ 1002  sudo git commit
+ 1003  sudo git push -u origin main
+ 1004  ls -l
+ 1005  clear
+ 1006  cd ~/asistencia/clase
+ 1007  ls
+ 1008  git add "Trabajo en clase SO.pdf"
+ 1009  git commit -m "Agrego trabajo en clase SO"
+ 1010  sudo git commit -m "Agrego trabajo en clase SO"
+ 1011  sudo git push origin main
+ 1012  sudo cat /etc/group
+ 1013  exit
+ 1014  pwd
+ 1015  cd /..
+ 1016  sudo cat /etc/shadow
+ 1017  sudo cat /etc/group
+ 1018  sudo useradd -u 1001
+ 1019  sudo useradd -u 1002 kike
+ 1020  sudo cat /etc/shadow
+ 1021  sudo useradd -u 1006 -d /home/mLinux -m -s /bin/bash alonso
+ 1022  cd canny
+ 1023  ls -l
+ 1024  cd asistencia
+ 1025  wsl cp /mnt/c/Ruta/En/Windows/tu_archivo.txt /home/tu_usuario/asistencia/
+ 1026  sudo cp /mnt/c/Ruta/En/Windows/Practica SO /home/tu_usuario/asistencia/
+ 1027  clear
+ 1028  sudo cp /mnt/c/Users/Karla/Desktop/Practica.txt ~/canny/asistencia/
+ 1029  ls /mnt/c/Users/Karla/Desktop/
+ 1030  sudo ls /mnt/c/Users/Karla/Desktop/
+ 1031  ls /mnt/c/Users/Karla/Desktop/
+ 1032  ls /mnt/
+ 1033  ls /mnt/c/Users/
+ 1034  ls /mnt/c/Users/karli/Desktop/
+ 1035  ls /mnt/c/Users/karli/
+ 1036  ls /mnt/c/Users/karli/OneDrive/Desktop/
+ 1037  sudo cp "/mnt/c/Users/karli/OneDrive/Desktop/Practica SO.pdf" ~/canny/asistencia/
+ 1038  ls -l
+ 1039  sudo git init
+ 1040  sudo git add "Practica SO.pdf"
+ 1041  sudo git commit -m "Agrego práctica de sistemas operativos"
+ 1042  sudo git remote add origin https://github.com/Kiara060423/Asistencias.git
+ 1043  sudo git remote -v
+ 1044  sudo git push origin main 
+ 1045  sudo git push origin main
+ 1046  sudo git remote -v
+ 1047  sudo git push origin main
+ 1048  sudo git pull origin main
+ 1049  ping -c 3 github.com
+ 1050  sudo git config pull.rebase false
+ 1051  sudo git pull origin main
+ 1052  sudo git push origin main
+ 1053  cd /..
+ 1054  ls -l
+ 1055  cd etc
+ 1056  useradd -u 1002 -d/home/mLinux -m -s  /bin/bash axel
+ 1057  sudo useradd -u 1002 -d/home/mLinux -m -s  /bin/bash axel
+ 1058  history
+ 1059  cd /..
+ 1060  ls -l
+ 1061  cd /..
+ 1062  ls -l
+ 1063  cd home
+ 1064  cd etc
+ 1065  cd /..
+ 1066  cd etc
+ 1067  cd /..
+ 1068  sudo cat /etc/passwd
+ 1069  clear
+ 1070  sudo cat /etc/group
+ 1071  clear
+ 1072  sudo cat /etc/shadow
+ 1073  clear
+ 1074  sudo useradd -u 1009 -d /home/montiel -m -s /bin/bash antony 
+ 1075  sudo cat /etc/shadow
+ 1076  sudo cat /etc/group
+ 1077  sudo useradd -m -e 2025-12-31 1009
+ 1078  sudo useradd -m -e 2025-12-31 antony
+ 1079  sudo usermod -e 2025-12-31 antony
+ 1080  sudo chage -l antony
+ 1081  sudo usermod -e 2025-12-31 -f 20 antony
+ 1082  sudo chage -l antony
+ 1083  sudo usermod -f 20 antony
+ 1084  sudo chage -I 15 antony
+ 1085  sudo chage -l antony
+ 1086  sudo usermod -e 2025-12-31 antony
+ 1087  sudo chage -E 2025-12-31 antony
+ 1088  sudo chage -l antony
+ 1089  sudo chage -d 2026-01-01 antony
+ 1090  sudo chage -l antony
+ 1091  sudo chage -d 0 antony
+ 1092  sudo chage -l antony
+ 1093  clear
+ 1094  sudo chage -expirate 2026-05-20 antony
+ 1095  sudo chage -I 30 montiel
+ 1096  sudo chage -I 30 antony
+ 1097  sudo chage -l antony
+ 1098  sudo chage -E 2026-01-15 antony
+ 1099  sudo chage -l antony
+ 1100  sudo chage -I 30 antony
+ 1101  sudo chage -l antony
+ 1102  clear
+ 1103  sudo adduser fonseca
+ 1104  sudo cat /etc/group
+ 1105  sudo chage -l fonseca
+ 1106  sudo chage -E 2025-09-12 fonseca
+ 1107  sudo chage -l fonseca
+ 1108  sudo adduser Alvarez
+ 1109  sudo useradd Alvarez
+ 1110  sudo adduser --allow-bad-names Alvarez
+ 1111  history
+ 1112  clear
+ 1113  sudo cat /etc/group
+ 1114  sudo usermod -l rodriguez Alvarez
+ 1115  sudo cat /etc/group
+ 1116  sudo cat /etc/shadow
+ 1117  sudo userdel -r rodriguez
+ 1118  sudo cat /etc/shadow
+ 1119  sudo cat /etc/group
+ 1120  su Alvarez
+ 1121  exit
+ 1122  su antony
+ 1123  sudo passwd
+ 1124  su antony
+ 1125  sudo antony
+ 1126  exit
+ 1127  su Alvarez
+ 1128  sudo Alvarez
+ 1129  su karli
+ 1130  clear
+ 1131  sudo groupadd -g 1024  admins
+ 1132  sudo cat /etc/group
+ 1133  sudo cat /etc/shadow
+ 1134  sudo cat /etc/passwd
+ 1135  sudo gpasswd -a fonseca admins
+ 1136  sudo cat /etc/group
+ 1137  sudo gpasswd -a kike admins
+ 1138  sudo cat /etc/group
+ 1139  sudo groupmod -g 1025 admins
+ 1140  sudo cat /etc/group
+ 1141  sudo groupmod -n admins admons
+ 1142  sudo cat /etc/group
+ 1143  sudo groupdel admons
+ 1144  sudo cat /etc/group
+ 1145  history
+ 1146  history > historial.txt
+ 1147  sudo cat historial.txt
+ 1148  ls hisrotial.txt
+ 1149  ls
+ 1150  cd canny
+ 1151  ls -l
+ 1152  sudo mkdir trabajoenclase
+ 1153  ls -l
+ 1154  cd trabajoenclase
+ 1155  sudo cp historial.txt ~/
+ 1156  sudo find ~name historial.txt 2>/dev/null 
+ 1157  history > historial.txt
+ 1158  sudo history > historial.txt
+ 1159  cd ~
+ 1160  history > historial.txt
